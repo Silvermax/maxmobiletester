@@ -1,0 +1,22 @@
+**MaxMobileTester** is SilverStripe module useful when developing responsive designs. If module "mobile" installed,  you can activate "mobile view".
+
+## Requirements
+
+    SS 2.3, 2.4
+
+## Installation
+
+    Place module into root of your SS installation
+    Dev/build/flush your SS installation
+
+## How to use
+
+Navigate your page to http://your-site/MaxMobileTester/
+
+## Collaboration
+If you want to help out and make some improvements please fork this project and submit a pull request (see this guide on how to do this:  [Pull requests](http://help.github.com/pull-requests/)). 
+
+## Problems / issues
+You must be in DEV mode. 
+If you are not in DEV mode, place this code into mysite/_config.php: Director::set_environment_type("dev");
+Dont't forget remove this line for production server!
