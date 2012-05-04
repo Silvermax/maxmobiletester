@@ -48,7 +48,7 @@
 		</div>
 	</div>
 	<div class="footer">
-			<a href="http://www.silvermax.sk/"><img src="/maxmobiletester/images/silvermax.logo.w150.png" alr="Silvermax"></a> module created by Pali Ondras  <a href="https://gist.github.com/1685127">based on design tester</a>
+			<a href="http://www.silvermax.sk/"><img src="/maxmobiletester/images/silvermax.logo.w150.png" alr="Silvermax"></a> module created by Pali Ondras |  <a href="https://gist.github.com/1685127">based on design tester</a>
 	</div>
 </body>
 </html>
